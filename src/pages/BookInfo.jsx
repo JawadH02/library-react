@@ -27,7 +27,7 @@ const BookInfo = ({ books, addToCart, cart }) => {
                                 <FontAwesomeIcon icon="arrow-left" />
                             </Link>
                             <Link to="/books" className="book__link">
-                                <h2 className="book__selected--title--top">Books</h2>
+                                <h2 className="book__selected--title--top">Shows</h2>
                             </Link>
                         </div>
                         <div className="book__selected">
